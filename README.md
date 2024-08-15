@@ -47,7 +47,7 @@ You need your own server or you can rent one from a hosting provider. For this, 
 5. Clone the repository:
 
     ```bash
-    git clone https://github.com/nessshon/token-access-control-bot.git
+    git clone https://github.com/jayp89/token-access-control-bot.git
     ```
 
 6. Navigate to the bot directory:
