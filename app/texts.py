@@ -2,7 +2,7 @@ from aiogram.utils.markdown import hide_link
 
 # Add other languages and their corresponding codes as needed.
 SUPPORTED_LANGUAGES = {
-    "ru": "🇷🇺 Русский",
+    "amh": "🇪🇹 Amharic",
     "en": "🇬🇧 English",
 }
 
@@ -192,9 +192,9 @@ TEXT_MESSAGES = {
         "main_menu": (
             f"{hide_link('https://telegra.ph//file/db9c5c3febe75811e41af.jpg')}"
             "🤖 <b>Welcome!</b>\n\n"
-            "I'm your personal guide in the world of private chats. "
-            "My main task is to provide you with access to our private chats, "
-            "based on your possession of the corresponding tokens.\n\n"
+            " I am the ETN Counsil Guard. I will decide whether or not you can join. "
+            " In order to join you need to possess one of the ETN archives and NFT's, "
+            "depending on the type of NFT you have The amount of voting power you will have on the council may defer.\n\n"
             "<blockquote><b>Private Chats:</b>\n{chats}\n"
             "<b>Required Tokens:</b>\n{tokens}</blockquote>\n\n"
             "Click on <b>Check access availability</b> to find out if you'll be admitted!\n\n"
