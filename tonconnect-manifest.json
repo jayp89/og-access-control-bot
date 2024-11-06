@@ -1,7 +1,7 @@
 {
   "url": "https://t.me/Etn_gatekeeper_bot",
   "name": "ETN Security",
-  "iconUrl": "https://etn.ethio-tech.com/pay/etn-logo.png"
-  "termsOfUseUrl": "https://etn.ethio-tech.com/tos/index.html",    
-  "privacyPolicyUrl": "https://etn.ethio-tech.com/tos/index.html" 
+  "iconUrl": "https://etn.ethio-tech.com/brand-assets/logos/coin_simple_white.png",
+  "termsOfUseUrl": "\u003Cterms-of-use-url\u003E",
+  "privacyPolicyUrl": "\u003Cprivacy-policy-url\u003E"
 }
