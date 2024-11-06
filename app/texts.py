@@ -2,12 +2,12 @@ from aiogram.utils.markdown import hide_link
 
 # Add other languages and their corresponding codes as needed.
 SUPPORTED_LANGUAGES = {
-    "amh": "🇪🇹 Amharic",
+    "ru": "🇪🇹 Amharic",
     "en": "🇬🇧 English",
 }
 
 TEXT_BUTTONS = {
-    "amh": {
+    "ru": {
         "add": "﹢ አክል",
         "back": "‹ ወደ ኋላ",
         "main": "≡ ዋና",
@@ -49,7 +49,7 @@ TEXT_BUTTONS = {
 }
 
 TEXT_MESSAGES = {
-    "amh": {
+    "ru": {
         "loader_text": "⏳",
         "outdated_text": "...",
 
