@@ -54,7 +54,7 @@ TEXT_MESSAGES = {
         "outdated_text": "...",
 
          "main_menu": (
-            f"{hide_link('https://telegra.ph//file/db9c5c3febe75811e41af.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/db9c5c3febe75811e41af.jpg')}"
             "🤖 <b>እንኳን ደህና መጡ!</b>\n\n"
             "እኔ የ ETN ደህንነት ነኝ። መቀላቀል እንደምትችል ወይም አለመቻልህን እወስናለሁ። እና የት መቀላቀል እንደምትችል እነግርሃለሁ። "
             "ለመቀላቀል የ ETN ማህደሮች እና NFTs ወይም SBTs ሊኖርህ ይገባል። "
@@ -65,22 +65,22 @@ TEXT_MESSAGES = {
             "<b>የተገናኘ ወደ:</b> {wallet}"
         ),
         "select_language": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "👋 <b>ሰላም!</b>\n\n"
             "ቋንቋ ይምረጡ:"
         ),
         "change_language": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "<b>ቋንቋ ይምረጡ:</b>"
         ),
         "deny_access": (
-            f"{hide_link('https://telegra.ph//file/ceec89ba75c903210411c.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/ceec89ba75c903210411c.jpg')}"
             "🚫 <b>መዳረሻ የተከለከለ ነው</b>\n\n"
             "በሚያሳዝን ሁኔታ በኪስ ቦርሳዎ ውስጥ አስፈላጊ ቶከኖች አልተገኙም።\n\n"
             "አትበሳጭ፣ <b>ከታች ያሉትን አዝራሮች ጠቅ በማድረግ ቶከኖችን መግዛት ትችላለህ</b> እና እንደገና ሞክር።"
         ),
         "allow_access": (
-            f"{hide_link('https://telegra.ph//file/6b03c59182d959cddeb02.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/6b03c59182d959cddeb02.jpg')}"
             "🎉 <b>እንኳን ደስ አላችሁ!</b>\n\n"
             "ወደ የግል ውይይቶቻችን መዳረሻ ተሰጥቶዎታል።\n\n"
             "<b>ከታች ያሉትን አዝራሮች ጠቅ ያድርጉ</b> እና ለመቀላቀል ማመልከቻ ያስገቡ፣ ወዲያውኑ እቀበላለሁ!"
@@ -106,15 +106,15 @@ TEXT_MESSAGES = {
         ),
 
         "admin_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "<b>የአስተዳዳሪ ፓነል</b>\n\nተግባር ይምረጡ:"
         ),
         "chats_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "<b>የግል ውይይቶች ምናሌ</b>\n\nተግባር ይምረጡ:"
         ),
         "chat_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "• <b>የግል ውይይት መረጃ</b>\n\n"
             "• <b>ID:</b>\n"
             "<blockquote>{chat_id}</blockquote>\n"
@@ -140,11 +140,11 @@ TEXT_MESSAGES = {
         "token_edit_amount": "<b>ለግል ውይይት መዳረሻ የሚያስፈልገውን አዲስ የቶከን መጠን ያስገቡ፡</b>",
         "token_send_amount_error": "የተሳሳተ የቶከን መጠን!",
         "admins_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "<b>የአስተዳዳሪዎች ምናሌ</b>\n\nተግባር ይምረጡ:"
         ),
         "admin_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "• <b>የአስተዳዳሪ መረጃ</b>\n\n"
             "• <b>ID:</b>\n"
             "<blockquote>{admin_id}</blockquote>\n"
@@ -169,7 +169,7 @@ TEXT_MESSAGES = {
         "outdated_text": "...",
 
         "main_menu": (
-            f"{hide_link('https://telegra.ph//file/db9c5c3febe75811e41af.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/db9c5c3febe75811e41af.jpg')}"
             "🤖 <b>Welcome!</b>\n\n"
             " I am the ETN Security. I will decide whether or not you can join. and where you can join "
             " In order to join you need to possess one of the ETN archives and NFT's, or SBT's "
@@ -180,22 +180,22 @@ TEXT_MESSAGES = {
             "<b>Connected to:</b> {wallet}"
         ),
         "select_language": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "👋 <b>Hello!</b>\n\n"
             "Choose a language:"
         ),
         "change_language": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "<b>Choose a language:</b>"
         ),
         "deny_access": (
-            f"{hide_link('https://telegra.ph//file/ceec89ba75c903210411c.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/ceec89ba75c903210411c.jpg')}"
             "🚫 <b>Access Denied</b>\n\n"
             "Unfortunately, I did not detect the required tokens in your wallet.\n\n"
             "Don't worry, you can <b>purchase tokens by clicking the buttons</b> below and try again."
         ),
         "allow_access": (
-            f"{hide_link('https://telegra.ph//file/6b03c59182d959cddeb02.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/6b03c59182d959cddeb02.jpg')}"
             "🎉 <b>Congratulations!</b>\n\n"
             "You have access to our private chats.\n\n"
             "<b>Click on the buttons</b> below and submit an application to join, "
@@ -222,15 +222,15 @@ TEXT_MESSAGES = {
         ),
 
         "admin_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "<b>Administrator Panel</b>\n\nSelect action:"
         ),
         "chats_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "<b>Private Chats Menu</b>\n\nSelect action:"
         ),
         "chat_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "• <b>Private Chat Information</b>\n\n"
             "• <b>ID:</b>\n"
             "<blockquote>{chat_id}</blockquote>\n"
@@ -244,11 +244,11 @@ TEXT_MESSAGES = {
             "<blockquote>{chat_created_at}</blockquote>"
         ),
         "tokens_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "<b>Tokens Menu</b>\n\nSelect action:"
         ),
         "token_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "• <b>Token Information</b>\n\n"
             "• <b>Type:</b>\n"
             "<blockquote>{token_type}</blockquote>\n"
@@ -276,11 +276,11 @@ TEXT_MESSAGES = {
         "token_edit_amount": "<b>Enter the new token amount</b> to access the private chat:",
         "token_send_amount_error": "Invalid token amount!",
         "admins_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "<b>Administrators Menu</b>\n\nSelect action:"
         ),
         "admin_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://etneco.ethio-tech.com/security/aaba319da09f60e6def03.jpg')}"
             "• <b>Administrator Information</b>\n\n"
             "• <b>ID:</b>\n"
             "<blockquote>{admin_id}</blockquote>\n"
